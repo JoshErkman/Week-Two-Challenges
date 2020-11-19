@@ -1,0 +1,7 @@
+C:\Users\erkma\Desktop\Personal Code\ClassesPractice\ClassesPractice\bin\Debug\ClassesPractice.exe.config
+C:\Users\erkma\Desktop\Personal Code\ClassesPractice\ClassesPractice\bin\Debug\ClassesPractice.exe
+C:\Users\erkma\Desktop\Personal Code\ClassesPractice\ClassesPractice\bin\Debug\ClassesPractice.pdb
+C:\Users\erkma\Desktop\Personal Code\ClassesPractice\ClassesPractice\obj\Debug\ClassesPractice.csprojAssemblyReference.cache
+C:\Users\erkma\Desktop\Personal Code\ClassesPractice\ClassesPractice\obj\Debug\ClassesPractice.csproj.CoreCompileInputs.cache
+C:\Users\erkma\Desktop\Personal Code\ClassesPractice\ClassesPractice\obj\Debug\ClassesPractice.exe
+C:\Users\erkma\Desktop\Personal Code\ClassesPractice\ClassesPractice\obj\Debug\ClassesPractice.pdb
